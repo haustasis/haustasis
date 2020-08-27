@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-
 - 🔭 I’m currently working on ... Vue Projects
 - 🌱 I’m currently learning ... MEVN stack
 - 👯 I’m looking to collaborate on ... cybersecurity projects
@@ -10,4 +9,7 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... what is staycation?
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haustasis)](https://github.com/anuraghazra/github-readme-stats)
+
 
