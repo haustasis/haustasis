@@ -2,7 +2,7 @@
 
 > “Fall Down Seven Times, Get Up Eight”
 
-![“Fall Down Seven Times, Get Up Eight”](keeptrying.gif)
+![keep](keeptrying.gif)
 
 - 🔭 I’m currently working on ... Vue Projects
 - 🌱 I’m currently learning ... MEVN stack
