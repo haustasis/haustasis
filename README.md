@@ -2,7 +2,7 @@
 
 > “Fall Down Seven Times, Get Up Eight”
 
-![keep](keeptrying.gif)
+![keep](https://github.com/haustasis/haustasis/blob/master/keeptrying.gif)
 
 - 🔭 I’m currently working on ... Vue Projects
 - 🌱 I’m currently learning ... MEVN stack
