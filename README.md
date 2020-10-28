@@ -13,6 +13,7 @@
 - 😄 Pronouns: ... he him his
 - ⚡ Fun fact: ... what is staycation?
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haustasis)](https://github.com/anuraghazra/github-readme-stats)
 
+![haustasis's github stats](https://github-readme-stats.vercel.app/api?username=haustasis&show_icons=true&include_all_commits=true)
+![haustasis's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haustasis&layout=compact)
 
