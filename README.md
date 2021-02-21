@@ -4,10 +4,10 @@
 
 ![keep](https://github.com/haustasis/haustasis/blob/master/keeptrying.gif)
 
-- 🔭 I’m currently working on ... Vanilla JavaScript Projects
-- 🌱 I’m currently learning ... MERN stack
-- 👯 I’m looking to collaborate on ... finance and cybersecurity projects
-- 🤔 I’m looking for help with ... web development
+- 🔭 I’m currently working on ... Ehtereum and Binance Smart Chain Projects
+- 🌱 I’m currently learning ... Solidity, React, Redux
+- 👯 I’m looking to collaborate on ... Blockchain projects
+- 🤔 I’m looking for help with ... Smart Contracts
 - 💬 Ask me about ... cybersecurity and finance
 - 📫 How to reach me: ... @protonmail.com
 - 😄 Pronouns: ... he him his
