@@ -11,7 +11,7 @@
 - 💬 Ask me about ... cybersecurity and finance
 - 📫 How to reach me: ... @protonmail.com
 - 😄 Pronouns: ... he him his
-- ⚡ Fun fact: ... what is staycation?
+- ⚡ Fun fact: ... what is impermanent loss?
 
 
 ![haustasis's github stats](https://github-readme-stats.vercel.app/api?username=haustasis&show_icons=true&include_all_commits=true)
