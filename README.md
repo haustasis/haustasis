@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-> “Fall Down Seven Times, Get Up Eight”
+> “Keep Falling Forward”
 
 ![keep](https://github.com/haustasis/haustasis/blob/master/keeptrying.gif)
 
-- 🔭 I’m currently working on ... Ehtereum and Binance Smart Chain Projects
-- 🌱 I’m currently learning ... Solidity, React, Redux
-- 👯 I’m looking to collaborate on ... Blockchain projects
-- 🤔 I’m looking for help with ... Smart Contracts
+- 🔭 I’m currently working on ... Python Projects
+- 🌱 I’m currently learning ... Automation
+- 👯 I’m looking to collaborate on ... Cybersecurity && Finance projects
+- 🤔 I’m looking for help with ... Chakras
 - 💬 Ask me about ... cybersecurity and finance
 - 📫 How to reach me: ... @protonmail.com
 - 😄 Pronouns: ... he him his
