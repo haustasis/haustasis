@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> “Keep Falling Forward”
+> “The Obstacle Is The Way”
 
 ![keep](https://github.com/haustasis/haustasis/blob/master/keeptrying.gif)
 
