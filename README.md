@@ -4,10 +4,10 @@
 
 ![keep](https://github.com/haustasis/haustasis/blob/master/keeptrying.gif)
 
-- 🔭 I’m currently working on ... Python Projects
-- 🌱 I’m currently learning ... Automation
+- 🔭 I’m currently working on ... Java Projects
+- 🌱 I’m currently learning ... Java Spring Hibernate
 - 👯 I’m looking to collaborate on ... Cybersecurity && Finance projects
-- 🤔 I’m looking for help with ... Chakras
+- 🤔 I’m looking for help with ... Neuroplasticity
 - 💬 Ask me about ... cybersecurity and finance
 - 📫 How to reach me: ... @protonmail.com
 - 😄 Pronouns: ... he him his
