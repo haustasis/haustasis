@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 > “The Obstacle Is The Way”
-> “Fall down seven times, stand up eight.”
+>  - “Fall down seven times, stand up eight.”
 
 ![keep](https://github.com/haustasis/haustasis/blob/master/keeptrying.gif)
 
